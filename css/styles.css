@@ -2427,6 +2427,10 @@ textarea.form-control {
   }
 }
 
+.skills-inline{
+  color:rgb(74, 74, 177)
+}
+
 .btn {
   display: inline-block;
   font-weight: 400;
